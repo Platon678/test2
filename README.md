@@ -27,7 +27,7 @@
             <p style="text-align:left">... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... .</p>
             <p style="font-size:40px"><b>Таблица</b><a href="#table"></a></p>
             <table style="border:2px solid;font-size:20px">
-                <tr style="border:2px solid black;background-color:cyan">
+                <tr style="background-color:cyan">
                     <td style="border:2px solid black">работа</td>
                     <td style="border:2px solid black">не работа</td>
                     <td style="border:2px solid black">не работа 2</td>
