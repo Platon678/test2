@@ -13,7 +13,7 @@
             <h2 style="text-align:center;font-size:40px">Ещё что-то</h2>
             <img src="https://images.unsplash.com/photo-1710432157519-e437027d2e8f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyOXx8fGVufDB8fHx8fA%3D%3D/">
             <p style="font-size:40px"><b>Текстттттттт</b><a href="#main"></a></p>
-            <p style="text-align:left">ougilg;jh'ij'oknb,jhv,jhbjn/km:Lkm;m;ljknkjkjbljhhgopk"l;kj'pihu;glyhflyhglk.</p>
+            <p style="text-align:left">ougilg;jh'ij'oknb,jhv,jhbjn/km: Lkm;m;ljknkjkjbljhhgopk"l;kj'pihu;glyhflyhglk.</p>
             <p style="text-align:left">загрузка...загрузка...загрузка...загрузка...загрузка...загрузка...</p>
             <p style="text-align:left">загрузка...загрузка...загрузка...загрузка...загрузка...загрузка...</p>
             <p style="text-align:left">загрузка...загрузка...загрузка...загрузка...загрузка...загрузка...</p>
